@@ -1,0 +1,1 @@
+{"latex": "Let $a_0=-2,b_0=1$, and for $n\\geq 0$, let\\\\\n\\begin{align*}a_{n+1}&=a_n+b_n+\\sqrt{a_n^2+b_n^2},\\\\b_{n+1}&=a_n+b_n-\\sqrt{a_n^2+b_n^2}.\\end{align*} Find $a_{2012}$.", "url": "https://artofproblemsolving.com/community/c129h521064p2934965", "category": ""}

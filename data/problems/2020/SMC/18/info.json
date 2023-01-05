@@ -1,0 +1,1 @@
+{"answer": "490", "latex": "Let real numbers $x$ and $y$ satisfy $\\log_{256} x - \\log_{289} y = \\frac{1}{8}$ and $\\log_{x} 256 + \\log_{y} 289 = \\frac{18}{5}$. Determine the value of $10(x+y),$ if $x$ and $y$ are integers.\n\n\n", "category": ""}

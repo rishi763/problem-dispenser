@@ -1,0 +1,1 @@
+{"answer": "898", "latex": "Given that\\\\\n\\begin{align*}\nx_{1}&=211,\\\\ \nx_{2}&=375,\\\\ \nx_{3}&=420,\\\\ \nx_{4}&=523, \\text{ and}\\\\ \nx_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4} \\text{ when } n \\geq 5, \n\\end{align*}\\\\\n\\\\\nfind the value of $x_{531}+x_{753}+x_{975}$.", "url": "https://artofproblemsolving.com/community/c4h125982p714295", "category": ""}

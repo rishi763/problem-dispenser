@@ -1,0 +1,1 @@
+{"answer": "407", "latex": "Let $m$ and $n$ be positive integers satisfying the conditions\n\\begin{itemize}\n\\item $\\gcd(m+n,210) = 1,$\n\\item $m^m$ is a multiple of $n^n,$ and\n\\item $m$ is not a multiple of $n$.\n\\end{itemize}\nFind the least possible value of $m+n$.", "url": "https://artofproblemsolving.com/community/c5h2028285p14284262", "category": "N"}

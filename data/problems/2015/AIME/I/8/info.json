@@ -1,0 +1,1 @@
+{"answer": "695", "latex": "For positive integer $n$, let $s(n)$ denote the sum of the digits of $n$. Find the smallest positive integer $n$ satisfying $s(n)=s(n+864)=20$.", "url": "https://artofproblemsolving.com/community/c5h1064881p4622245", "category": "N"}

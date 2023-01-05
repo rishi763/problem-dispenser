@@ -1,0 +1,1 @@
+{"latex": "Define $\\phi^!(n)$ as the product of all positive integers less than or equal to $n$ and relatively prime to $n$. Compute the remainder when \\[ \\sum_{\\substack{2 \\le n \\le 50 \\\\ \\gcd(n,50)=1}} \\phi^!(n) \\]is divided by $50$.", "url": "https://artofproblemsolving.com/community/c129h1359333p7444603", "category": ""}

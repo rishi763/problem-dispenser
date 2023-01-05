@@ -1,0 +1,1 @@
+{"answer": "447", "latex": "The repeating decimals $0.abab\\overline{ab}$ and $0.abcabc\\overline{abc}$ satisfy\\\\\n\\[0.abab\\overline{ab}+0.abcabc\\overline{abc}=\\frac{33}{37},\\]\\\\\nwhere $a,b$, and $c$ are (not necessarily distinct) digits. Find the three-digit number $abc$.", "url": "https://artofproblemsolving.com/community/c5h582686p3444092", "category": "N"}

@@ -1,0 +1,1 @@
+{"latex": "Let $f(x)=\\sin(\\sin(x))$. Evaluate \\[ \\lim_{h \\to 0} \\dfrac {f(x+h)-f(h)}{x} \\] at $x=\\pi$.", "url": "https://artofproblemsolving.com/community/c129h448541p2524809", "category": ""}

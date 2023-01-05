@@ -1,0 +1,1 @@
+{"answer": "C", "latex": "Let $f(t)=\\frac{t}{1-t}$, $t \\not= 1$.  If $y=f(x)$, then $x$ can be expressed as\\\\\n\\\\\n$\\textbf{(A)}\\ f\\left(\\frac{1}{y}\\right)\\qquad\n\\textbf{(B)}\\ -f(y)\\qquad\n\\textbf{(C)}\\ -f(-y)\\qquad\n\\textbf{(D)}\\ f(-y)\\qquad\n\\textbf{(E)}\\ f(y)$", "url": "https://artofproblemsolving.com/community/c5h413266p2322464", "category": "A"}

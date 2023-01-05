@@ -1,0 +1,1 @@
+{"answer": "5", "latex": "One worker can complete a job in $2$ hours, the next can complete in $4$ hours, and so on for powers of $2$. We hire the first n fastest workers. What is the smallest value of n, such that they complete the job in under 64 minutes?\n", "category": ""}

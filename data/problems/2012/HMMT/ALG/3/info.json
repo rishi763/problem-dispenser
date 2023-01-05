@@ -1,0 +1,1 @@
+{"latex": "Given points $a$ and $b$ in the plane, let $a\\oplus b$ be the unique point $c$ such that $abc$ is an equilateral triangle with $a,b,c$ in the clockwise orientation.\\\\\nSolve $(x\\oplus (0,0))\\oplus(1,1)=(1,-1)$ for $x$.", "url": "https://artofproblemsolving.com/community/c129h521061p2934961", "category": ""}

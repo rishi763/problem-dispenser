@@ -1,0 +1,1 @@
+{"latex": "Let $f$ be a function such that $f(0)=1$, $f^\\prime (0)=2$, and \\[f^{\\prime\\prime}(t)=4f^\\prime(t)-3f(t)+1\\] for all $t$.  Compute the $4$th derivative of $f$, evaluated at $0$.", "url": "https://artofproblemsolving.com/community/c129h489049p2741065", "category": ""}

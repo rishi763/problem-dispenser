@@ -1,0 +1,1 @@
+{"latex": "In a contest, there are $m$ candidates and $n$ judges, where $n\\geq 3$ is an odd integer. Each candidate is evaluated by each judge as either pass or fail. Suppose that each pair of judges agrees on at most $k$ candidates. Prove that \\[{\\frac{k}{m}} \\geq {\\frac{n-1}{2n}}. \\]", "url": "https://artofproblemsolving.com/community/c6h18503p124458", "category": ""}

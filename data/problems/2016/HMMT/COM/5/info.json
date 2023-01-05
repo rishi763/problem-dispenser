@@ -1,0 +1,1 @@
+{"latex": "Let $a$, $b$, $c$, $d$, $e$, $f$ be integers selected from the set $\\{1,2,\\dots,100\\}$, uniformly and at random with replacement. Set \\[ M = a + 2b + 4c + 8d + 16e + 32f. \\]What is the expected value of the remainder when $M$ is divided by $64$?", "url": "https://artofproblemsolving.com/community/c129h1361542p7462760", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "Let $S = \\{1, 2, \\ldots, 2016\\}$, and let $f$ be a randomly chosen bijection from $S$ to itself. Let $n$ be the smallest\\\\\npositive integer such that $f^{(n)}(1) = 1$, where $f^{(i)}(x) = f(f^{(i-1)}(x))$. What is the expected value of $n$?", "url": "https://artofproblemsolving.com/community/c129h1339276p7263972", "category": ""}

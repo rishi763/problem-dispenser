@@ -1,0 +1,1 @@
+{"answer": "041", "latex": "The sequence $ (a_n)$ satisfies $ a_1 = 1$ and $ \\displaystyle 5^{(a_{n+1}-a_n)} - 1 = \\frac{1}{n+\\frac{2}{3}}$ for $ n \\geq 1$. Let $ k$ be the least integer greater than $ 1$ for which $ a_k$ is an integer. Find $ k$.", "url": "https://artofproblemsolving.com/community/c5h265237p1439424", "category": "A"}

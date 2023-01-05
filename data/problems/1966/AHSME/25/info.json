@@ -1,0 +1,1 @@
+{"answer": "D", "latex": "If $F(n+1)=\\frac{2F(n)+1}{2}$ for $n=1,2,\\ldots$, and $F(1)=2$, then $F(101)$ equals:\\\\\n\\\\\n$\\text{(A)} \\ 49 \\qquad \\text{(B)} \\ 50 \\qquad \\text{(C)} \\ 51 \\qquad \\text{(D)} \\ 52 \\qquad \\text{(E)} \\ 53$", "url": "https://artofproblemsolving.com/community/c4h80888p463173", "category": "A"}

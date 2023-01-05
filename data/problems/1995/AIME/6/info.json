@@ -1,0 +1,1 @@
+{"answer": "589", "latex": "Let $n=2^{31}3^{19}.$  How many positive integer divisors of $n^2$ are less than $n$ but do not divide $n$?", "url": "https://artofproblemsolving.com/community/c4h66878p394493", "category": "N"}

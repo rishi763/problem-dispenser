@@ -1,0 +1,1 @@
+{"latex": "For each positive integer $n$, find the number of $n$-digit positive integers that satisfy both of the following conditions:\n\\begin{itemize}\n\\item no two consecutive digits are equal, and\n\\item the last digit is a prime.\n\\end{itemize}\n", "url": "https://artofproblemsolving.com/community/c5h1629599p10226138", "category": ""}

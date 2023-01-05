@@ -1,0 +1,1 @@
+{"latex": "Let $\\mathbb{N}$ be the set of positive integers. Let $f$ be a function defined on $\\mathbb{N}$, which satisfies the inequality $f(n + 1) > f(f(n))$ for all $n \\in \\mathbb{N}$. Prove that for any $n$ we have $f(n) = n.$", "url": "https://artofproblemsolving.com/community/c6h61027p367398", "category": ""}

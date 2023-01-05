@@ -1,0 +1,1 @@
+{"latex": "Let $\\mathbb{Z}$ be the set of integers. Determine all functions $f: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a)+2f(b)=f(f(a+b)).$$\\textit{Proposed by Liam Baker, South Africa}", "url": "https://artofproblemsolving.com/community/c6h1876068p12744859", "category": ""}

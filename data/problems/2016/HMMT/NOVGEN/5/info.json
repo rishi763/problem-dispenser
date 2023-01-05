@@ -1,0 +1,1 @@
+{"latex": "Let the sequence $\\{a_i\\}^\\infty_{i=0}$ be defined by $a_0 =\\frac12$ and $a_n = 1 + (a_{n-1} - 1)^2$. Find the product $$\\prod_{i=0}^\\infty a_i=a_0a_1a_2\\ldots$$", "url": "https://artofproblemsolving.com/community/c129h1339269p7263884", "category": ""}

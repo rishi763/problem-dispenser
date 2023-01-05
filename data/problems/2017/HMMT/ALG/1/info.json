@@ -1,0 +1,1 @@
+{"latex": "Let $Q(x)=a_0+a_1x+\\dots+a_nx^n$ be a polynomial with integer coefficients, and $0\\le a_i<3$ for all $0\\le i\\le n$.\\\\\n\\\\\nGiven that $Q(\\sqrt{3})=20+17\\sqrt{3}$, compute $Q(2)$.", "url": "https://artofproblemsolving.com/community/c129h1386253p7710407", "category": ""}

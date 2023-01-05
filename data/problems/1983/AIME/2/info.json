@@ -1,0 +1,1 @@
+{"answer": "015", "latex": "Let $f(x) = |x - p| + |x - 15| + |x - p - 15|$, where $0 < p < 15$.  Determine the minimum value taken by $f(x)$ for $x$ in the interval $p \\le x \\le 15$.", "url": "https://artofproblemsolving.com/community/c4h60592p365827", "category": "A"}

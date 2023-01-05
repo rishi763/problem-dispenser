@@ -1,0 +1,1 @@
+{"latex": "Find the number of triples of sets $(A, B, C)$ such that:\\\\\n\\\\\n(a) $A, B, C \\subseteq \\{1, 2, 3, \\dots , 8 \\}$.\\\\\n(b) $|A \\cap B| = |B \\cap C| = |C \\cap A| = 2$.\\\\\n(c) $|A| = |B| = |C| = 4$.\\\\\n\\\\\nHere, $|S|$ denotes the number of elements in the set $S$.", "url": "https://artofproblemsolving.com/community/c129h577616p3406139", "category": ""}

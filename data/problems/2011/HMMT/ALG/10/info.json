@@ -1,0 +1,1 @@
+{"latex": "Let $z = \\cos \\frac{2\\pi}{2011} + i\\sin \\frac{2\\pi}{2011}$, and let \\[ P(x) = x^{2008} + 3x^{2007} + 6x^{2006} + \\cdots + \\frac{2008 \\cdot 2009}{2} x + \\frac{2009 \\cdot 2010}{2} \\] for all complex numbers $x$.  Evaluate $P(z)P(z^2)P(z^3) \\cdots P(z^{2010})$.", "url": "https://artofproblemsolving.com/community/c129h520361p2930895", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "For $1\\leq j\\leq 2014$, define \\[b_j=j^{2014}\\prod_{i=1, i\\neq j}^{2014}(i^{2014}-j^{2014})\\] where the product is over all $i\\in\\{1,\\ldots,2014\\}$ except $i=j$.  Evaluate \\[\\dfrac1{b_1}+\\dfrac1{b_2}+\\cdots+\\dfrac1{b_{2014}}.\\]", "url": "https://artofproblemsolving.com/community/c129h603986p3586745", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "Let $x,y,z$ be three positive reals such that $xyz\\geq 1$. Prove that\\\\\n\\[ \\frac { x^5-x^2 }{x^5+y^2+z^2} + \\frac {y^5-y^2}{x^2+y^5+z^2} + \\frac {z^5-z^2}{x^2+y^2+z^5} \\geq 0 . \\]\\\\\n\\textit{Hojoo Lee, Korea}", "url": "https://artofproblemsolving.com/community/c6h44480p281573", "category": ""}

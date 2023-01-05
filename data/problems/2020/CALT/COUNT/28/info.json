@@ -1,0 +1,1 @@
+{"answer": "14", "latex": "For all positive integer $n$, let  $f(n)$ denote the closest prime to $n$. (If two such integers exist, take the larger of the two.) What is the smallest integer $n$ such that $$f(n + 1)^2 - f(n)^2 = 120?$$\n", "category": ""}

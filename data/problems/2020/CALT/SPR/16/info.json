@@ -1,0 +1,1 @@
+{"answer": "1488", "latex": "Suppose $a$ and $b$ are real numbers such that $14a + 2b = 36$.  What is the remainder when \\[\n    x^4-3x^3+2x^2+ax+b\n    \\]is divided by $x-7$?\n", "category": ""}

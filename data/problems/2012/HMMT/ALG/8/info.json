@@ -1,0 +1,1 @@
+{"latex": "Let $x_1=y_1=x_2=y_2=1$, then for $n\\geq 3$ let $x_n=x_{n-1}y_{n-2}+x_{n-2}y_{n-1}$ and $y_n=y_{n-1}y_{n-2}-x_{n-1}x_{n-2}$.  What are the last two digits of $|x_{2012}|?$", "url": "https://artofproblemsolving.com/community/c129h521066p2934967", "category": ""}

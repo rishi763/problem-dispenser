@@ -1,0 +1,1 @@
+{"latex": "Call a real-valued function $ f$ \\textit{very convex} if\\\\\n\\[ \\frac {f(x) + f(y)}{2} \\ge f\\left(\\frac {x + y}{2}\\right) + |x - y|\n\\]\\\\\nholds for all real numbers $ x$ and $ y$. Prove that no very convex function exists.", "url": "https://artofproblemsolving.com/community/c6h47401p299244", "category": "A"}

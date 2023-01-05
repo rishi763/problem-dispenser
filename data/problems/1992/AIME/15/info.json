@@ -1,0 +1,1 @@
+{"answer": "396", "latex": "Define a positive integer $ n$ to be a factorial tail if there is some positive integer $ m$ such that the decimal representation of $ m!$ ends with exactly $ n$ zeroes. How many positive integers less than $ 1992$ are not factorial tails?", "url": "https://artofproblemsolving.com/community/c4h75302p433444", "category": "N"}

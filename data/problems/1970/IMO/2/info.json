@@ -1,0 +1,1 @@
+{"latex": "We have $0\\le x_i<b$ for $i=0,1,\\ldots,n$ and $x_n>0,x_{n-1}>0$. If $a>b$, and $x_nx_{n-1}\\ldots x_0$ represents the number $A$ base $a$ and $B$ base $b$, whilst $x_{n-1}x_{n-2}\\ldots x_0$ represents the number $A'$ base $a$ and $B'$ base $b$, prove that $A'B<AB'$.", "url": "https://artofproblemsolving.com/community/c6h60834p366688", "category": "A"}

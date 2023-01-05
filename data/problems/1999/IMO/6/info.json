@@ -1,0 +1,1 @@
+{"latex": "Find all the functions $f: \\mathbb{R} \\to\\mathbb{R}$ such that\\\\\n\\[f(x-f(y))=f(f(y))+xf(y)+f(x)-1\\]for all $x,y \\in \\mathbb{R} $.", "url": "https://artofproblemsolving.com/community/c6h19782p131856", "category": "A"}

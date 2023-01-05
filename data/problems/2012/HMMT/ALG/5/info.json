@@ -1,0 +1,1 @@
+{"latex": "Find all ordered triples $(a,b,c)$ of positive reals that satisfy: $\\lfloor a\\rfloor bc=3,a\\lfloor b\\rfloor c=4$, and $ab\\lfloor c\\rfloor=5$, where $\\lfloor x\\rfloor$ denotes the greatest integer less than or equal to $x$.", "url": "https://artofproblemsolving.com/community/c129h521063p2934964", "category": ""}

@@ -1,0 +1,1 @@
+{"answer": "469", "latex": "Suppose that $ a$, $ b$, and $ c$ are positive real numbers such that $ a^{\\log_3 7} = 27$, $ b^{\\log_7 11} = 49$, and $ c^{\\log_{11} 25} = \\sqrt {11}$. Find\\\\\n\\[ a^{(\\log_3 7)^2} + b^{(\\log_7 11)^2} + c^{(\\log_{11} 25)^2}.\n\\]", "url": "https://artofproblemsolving.com/community/c5h268519p1455401", "category": "A"}

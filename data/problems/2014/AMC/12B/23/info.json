@@ -1,0 +1,1 @@
+{"answer": "C", "latex": "The number $2017$ is prime. Let $S=\\sum_{k=0}^{62}\\binom{2014}{k}$. What is the remainder when $S$ is divided by $2017$?\\\\\n\\\\\n$\\textbf{(A) }32\\qquad\n\\textbf{(B) }684\\qquad\n\\textbf{(C) }1024\\qquad\n\\textbf{(D) }1576\\qquad\n\\textbf{(E) }2016\\qquad$", "url": "https://artofproblemsolving.com/community/c5h577097p3402517", "category": "N"}

@@ -1,0 +1,1 @@
+{"latex": "Given real numbers $x_1,x_2,y_1,y_2,z_1,z_2$ satisfying $x_1>0,x_2>0,x_1y_1>z_1^2$, and $x_2y_2>z_2^2$, prove that: \\[ {8\\over(x_1+x_2)(y_1+y_2)-(z_1+z_2)^2}\\le{1\\over x_1y_1-z_1^2}+{1\\over x_2y_2-z_2^2}. \\] Give necessary and sufficient conditions for equality.", "url": "https://artofproblemsolving.com/community/c6h60055p363659", "category": ""}

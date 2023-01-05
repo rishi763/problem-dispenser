@@ -1,0 +1,1 @@
+{"latex": "Let \\[ E_n=(a_1-a_2)(a_1-a_3)\\ldots(a_1-a_n)+(a_2-a_1)(a_2-a_3)\\ldots(a_2-a_n)+\\ldots+(a_n-a_1)(a_n-a_2)\\ldots(a_n-a_{n-1}). \\] Let $S_n$ be the proposition that $E_n\\ge0$ for all real $a_i$. Prove that $S_n$ is true for $n=3$ and $5$, but for no other $n>2$.", "url": "https://artofproblemsolving.com/community/c6h60827p366673", "category": ""}

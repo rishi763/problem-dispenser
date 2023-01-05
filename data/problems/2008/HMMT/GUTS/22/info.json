@@ -1,0 +1,1 @@
+{"latex": "For a positive integer $ n$, let $ \\theta(n)$ denote the number of integers $ 0 \\leq x < 2010$ such that $ x^2 - n$ is divisible by $ 2010$. Determine the remainder when $ \\displaystyle \\sum_{n = 0}^{2009} n \\cdot \\theta(n)$ is divided by $ 2010$.", "url": "https://artofproblemsolving.com/community/c4h198875p1093491", "category": ""}

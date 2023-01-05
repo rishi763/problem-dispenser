@@ -1,0 +1,1 @@
+{"latex": "Construct a triangle $ABC$ if $AC=b$, $AB=c$ and $\\angle AMB=w$, where $M$ is the midpoint of the segment $BC$ and $w<90$. Prove that a solution exists if and only if \\[ b \\tan{\\dfrac{w}{2}} \\leq c <b  \\] In what case does the equality hold?", "url": "https://artofproblemsolving.com/community/c6h55224p343312", "category": "G"}

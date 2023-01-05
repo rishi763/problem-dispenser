@@ -1,0 +1,1 @@
+{"answer": "9", "latex": "Drew creates a $4$-sided tetrahedron dice by randomly choosing numbers from $2-6$. He then takes the $3$ numbers that are not on the bottom and creates a $3$-digit number using these digits. Then he takes the GCD of all the $6$ numbers he can make using those $3$ digits. What is the value of the highest GCD he can get?\n", "category": ""}

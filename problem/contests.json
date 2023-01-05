@@ -1,0 +1,497 @@
+{
+    "AIME":{
+        "aliases":["AIME"],
+        "answer":true,
+        "rated":true,
+        "versions":["II", "I", "None"],
+        "choice":false,
+        "weights":[22, 22, 17],
+        "attempts":5,
+        "rating_name":"AIME",
+        "attempt_weight":[1, 4, 7, 9, 10],
+        "difficulty_weight":[1, 3, 6, 6],
+        "contest_weight":5,
+        "time":10800,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_AIME_VERSION_Problems/Problem_NUMBER",
+        "I":{
+            "aliases":["I"],
+            "weight":22,
+            "new":true,
+            "years":[2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5],
+            "medium":[6, 7, 8, 9, 10],
+            "hard":[11, 12, 13, 14, 15],
+            "insane":[13, 14, 15]
+        },
+        "II":{
+            "aliases":["II"],
+            "weight":22,
+            "new":true,
+            "years":[2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5],
+            "medium":[6, 7, 8, 9, 10],
+            "hard":[11, 12, 13, 14, 15],
+            "insane":[13, 14, 15]
+        },
+        "None":{
+            "aliases":["None"],
+            "weight":17,
+            "new":false,
+            "years":[1983, 1984, 1985, 1986, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999],
+            "easy":[1, 2, 3, 4, 5],
+            "medium":[6, 7, 8, 9, 10],
+            "hard":[11, 12, 13, 14, 15],
+            "insane":[13, 14, 15]
+        }
+
+    },
+    "AHSME":{
+        "aliases":["AHSME"],
+        "answer":true,
+        "rated":false,
+        "versions":["None","None1","None2","None3"],
+        "choice":false,
+        "weights":[10, 8, 6, 26],
+        "attempts":2,
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6, 6],
+        "contest_weight":1.5,
+        "rating_name":"AHSME",
+        "time":5400,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_AHSME_Problems/Problem_NUMBER",
+        "None":{
+            "aliases":["None"],
+            "weight":10,
+            "new":false,
+            "years":[1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "medium":[16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+            "hard":[36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+        },
+        "None1":{
+            "aliases":["None1"],
+            "weight":8,
+            "new":false,
+            "years":[1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "medium":[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28],
+            "hard":[29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+        },
+        "None2":{
+            "aliases":["None2"],
+            "weight":6,
+            "new":false,
+            "years":[1968, 1969, 1970, 1971, 1972, 1973],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
+            "hard":[26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+        },
+        "None3":{
+            "aliases":["None3"],
+            "weight":26,
+            "new":false,
+            "years":[1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+            "hard":[21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+        }
+    },
+    "AMC/8":{
+        "aliases":["AMC8", "AMC 8"],
+        "answer":true,
+        "rated":true,
+        "versions":["None"],
+        "choice":false,
+        "weights":[1],
+        "attempts":2,
+        "rating_name":"AMC_8",
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6, 6],
+        "contest_weight":1.5,
+        "time":2400,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_AMC_8_Problems/Problem_NUMBER",
+        "None":{
+            "aliases":["None"],
+            "weight":1,
+            "new":true,
+            "years":[1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        }
+    },
+    "AMC/10":{
+        "aliases":["AMC10", "AMC 10"],
+        "answer":true,
+        "rated":true,
+        "versions":["A", "B", "P", "None"],
+        "choice":false,
+        "weights":[20, 20, 1, 2],
+        "attempts":2,
+        "rating_name":"AMC_10",
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6],
+        "contest_weight":1.5,
+        "time":4500,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_AMC_10VERSION_Problems/Problem_NUMBER",
+        "A":{
+            "aliases":["A"],
+            "weight":20,
+            "new":true,
+            "years":[2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "B":{
+            "aliases":["B"],
+            "weight":20,
+            "new":true,
+            "years":[2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "P":{
+            "aliases":["P"],
+            "weight":1,
+            "new":false,
+            "years":[2002],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "None":{
+            "aliases":["None"],
+            "weight":1,
+            "new":false,
+            "years":[2000, 2001],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        }
+    },
+    "AMC/12":{
+        "aliases":["AMC12", "AMC 12"],
+        "answer":true,
+        "rated":true,
+        "versions":["A", "B", "P", "None"],
+        "choice":false,
+        "weights":[20, 20, 1, 2],
+        "attempts":2,
+        "rating_name":"AMC_12",
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6],
+        "contest_weight":3,
+        "time":4500,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_AMC_12VERSION_Problems/Problem_NUMBER",
+        "A":{
+            "aliases":["A"],
+            "weight":20,
+            "new":true,
+            "years":[2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "B":{
+            "aliases":["B"],
+            "weight":20,
+            "new":true,
+            "years":[2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "P":{
+            "aliases":["P"],
+            "weight":1,
+            "new":false,
+            "years":[2002],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        },
+        "None":{
+            "aliases":["None"],
+            "weight":1,
+            "new":false,
+            "years":[2000, 2001],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        }
+    },
+    "USAJMO":{
+        "aliases":["USAJMO", "JMO"],
+        "answer":false,
+        "rated":false,
+        "versions":["None"],
+        "choice":false,
+        "weights":[1],
+        "attempts":null,
+        "attempt_weight":null,
+        "difficulty_weight":null,
+        "contest_weight":null,
+        "time":32400,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_USAJMO_Problems/Problem_NUMBER",
+        "None":{
+            "aliases":["None"],
+            "weight":1,
+            "new":true,
+            "years":[2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 4],
+            "medium":[2, 5],
+            "hard":[3, 6]
+        }
+    },
+    "USAMO":{
+        "aliases":["USAMO", "AMO"],
+        "answer":false,
+        "rated":false,
+        "versions":["None", "None1"],
+        "choice":false,
+        "weights":[24, 25],
+        "attempts":null,
+        "attempt_weight":null,
+        "difficulty_weight":null,
+        "contest_weight":null,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_USAMO_Problems/Problem_NUMBER",
+        "None":{
+            "aliases":["None"],
+            "weight":24,
+            "new":false,
+            "years":[1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995],
+            "easy":[1, 2],
+            "medium":[3],
+            "hard":[4, 5]
+        },
+        "None1":{
+            "aliases":["None"],
+            "weight":25,
+            "new":true,
+            "years":[1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 4],
+            "medium":[2, 5],
+            "hard":[3, 6]
+        }
+    },
+    "IMO":{
+        "aliases":["IMO"],
+        "answer":false,
+        "rated":false,
+        "versions":["None"],
+        "choice":false,
+        "weights":[1],
+        "attempts":null,
+        "attempt_weight":null,
+        "difficulty_weight":null,
+        "contest_weight":null,
+        "time":32400,
+        "url":"https://artofproblemsolving.com/wiki/index.php/YEAR_IMO_Problems/Problem_NUMBER",
+        "None":{
+            "aliases":["None"],
+            "weight":1,
+            "new":true,
+            "years":[1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 4],
+            "medium":[2, 5],
+            "hard":[3, 6]
+        }
+    },
+    "SMC":{
+        "aliases":["SMC"],
+        "answer": true,
+        "rated": false,
+        "versions": ["None"],
+        "choice":false,
+        "weights":[1],
+        "attempts":2,
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6],
+        "contest_weight":null,
+        "rating_name":"SMC",
+        "url":null,
+        "None":{
+            "aliases":["None"],
+            "weight":24,
+            "new":true,
+            "years":[2020],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "hard":[20, 21, 22, 23, 24, 25]
+        }
+    },
+    "CALT":{
+        "aliases":["CALT"],
+        "answer": true,
+        "rated": false,
+        "versions": ["TAR", "SPR","COUNT"],
+        "choice":true,
+        "weights":[1, 1, 1],
+        "attempts":2,
+        "attempt_weight":[5, 10],
+        "difficulty_weight":[1, 3, 6],
+        "contest_weight":null,
+        "rating_name":"CALT",
+        "url":null,
+        "TAR":{
+            "aliases":["TAR", "TARGET"],
+            "weight":1,
+            "new":true,
+            "years":[2020],
+            "easy":[1],
+            "medium":[2, 3],
+            "hard":[4]
+        },
+        "SPR":{
+            "aliases":["SPR", "SPRINT"],
+            "weight":1,
+            "new":true,
+            "years":[2020],
+            "easy":[1, 2, 3, 4, 5, 6, 7],
+            "medium":[8, 9, 10, 11, 12, 13],
+            "hard":[14, 15, 16, 17, 18, 19, 20]
+        },
+        "COUNT":{
+            "aliases":["COUNT", "CD", "COUNTDOWN"],
+            "weight":1,
+            "new":true,
+            "years":[2020],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "medium":[11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+            "hard":[21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+        }
+    },
+    "HMMT":{
+        "aliases":["HMMT"],
+        "answer": false,
+        "rated": false,
+        "versions": ["ADV", "ALG", "CALC", "COM", "GEN", "GUTS", "ORAL", "TEAM", "NOVGEN", "NOVGUTS", "NOVTEAM", "NOVTHEME", "GEO"], 
+        "choice":true,
+        "weights":[3, 20, 9, 10, 2, 6, 1, 7, 3, 1, 1, 3, 12],
+        "attempts":null,
+        "attempt_weight":null,
+        "difficulty_weight":null,
+        "contest_weight":null,
+        "url":null,
+        "ADV":{
+            "aliases":["ADV", "ADVANCED"],
+            "weight":3,
+            "new":false,
+            "years":[1998, 1999, 2000],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "ALG":{
+            "aliases":["ALG", "ALGEBRA"],
+            "weight":20,
+            "new":true,
+            "years":[1998, 1999, 2000, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "CALC":{
+            "aliases":["CALC", "CALCULUS"],
+            "weight":9,
+            "new":true,
+            "years":[1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "COM":{
+            "aliases":["COM", "COMBO", "COMBINATORICS"],
+            "weight":10,
+            "new":true,
+            "years":[2004, 2006, 2008, 2009, 2014, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "GEN":{
+            "aliases":["GEN", "GENERAL"],
+            "weight":2,
+            "new":true,
+            "years":[2008, 2009],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "GEO":{
+            "aliases":["GEO", "GEOMETRY"],
+            "weight":12,
+            "new":true,
+            "years": [2006, 2007, 2008, 2009, 2011, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "GUTS":{
+            "aliases":["GUTS"],
+            "weight":6,
+            "new":true,
+            "years": [2000, 2007, 2008, 2013, 2014, 2016],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "medium":[12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+            "hard":[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+        },
+        "ORAL":{
+            "aliases":["ORAL"],
+            "weight":1,
+            "new":false,
+            "years": [2000],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "TEAM":{
+            "aliases":["TEAM"],
+            "weight":7,
+            "new":true,
+            "years": [2013, 2014, 2016, 2017, 2018, 2019, 2020],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "NOVGEN":{
+            "aliases":["NOVGEN", "NOV GENERAL", "NOV GEN", "NOV GENERAL", "NOVEMBERGEN", "NOVEMBER GENERAL", "NOVEMBER GEN", "NOVEMBER GENERAL"],
+            "weight":3,
+            "new":true,
+            "years": [2016, 2017, 2018],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "NOVGUTS":{
+            "aliases":["NOVGUTS", "NOV GUTS", "NOVEMBERGUTS", "NOVEMBER GUTS"],
+            "weight":1,
+            "new":true,
+            "years": [2017],
+            "easy":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "medium":[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+            "hard":[ 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+        },
+        "NOVTEAM":{
+            "aliases":["NOVTEAM", "NOV TEAM", "NOVEMBERTEAM", "NOVEMBER TEAM"],
+            "weight":1,
+            "new":true,
+            "years": [2018],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        },
+        "NOVTHEME":{
+            "aliases":["NOVTHEME", "NOV THEME", "NOVEMBERTHEME", "NOVEMBER THEME"],
+            "weight":3,
+            "new":true,
+            "years": [2016, 2017, 2018],
+            "easy":[1, 2, 3],
+            "medium":[4, 5, 6, 7],
+            "hard":[8, 9, 10]
+        }
+    }
+
+}

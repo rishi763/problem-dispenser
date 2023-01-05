@@ -1,0 +1,1 @@
+{"answer": "2", "latex": "If $f(x)=\\lfloor \\sqrt{x}\\rfloor$, and $g(x)$ returns the number of perfect squares less than $x$, what is $f(g(f(2020)))$?\n", "category": ""}

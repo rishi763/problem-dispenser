@@ -1,0 +1,1 @@
+{"answer": "144", "latex": "The sets $A = \\{z : z^{18} = 1\\}$ and $B = \\{w : w^{48} = 1\\}$ are both sets of complex roots of unity.  The set $C = \\{zw : z \\in A \\ \\text{and} \\ w \\in B\\}$ is also a set of complex roots of unity.  How many distinct elements are in $C$?", "url": "https://artofproblemsolving.com/community/c4h80278p459508", "category": "A"}

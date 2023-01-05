@@ -1,0 +1,1 @@
+{"answer": "540", "latex": "Let $\\tau (n)$ denote the number of positive integer divisors of $n$. Find the sum of the six least positive integers $n$ that are solutions to $\\tau (n) + \\tau (n+1) = 7$.", "url": "https://artofproblemsolving.com/community/c5h1802333p11972646", "category": "N"}

@@ -1,0 +1,1 @@
+{"latex": "Let $W$ be the hypercube $\\{(x_1,x_2,x_3,x_4)\\,|\\,0\\leq x_1,x_2,x_3,x_4\\leq 1\\}$.  The intersection of $W$ and a hyperplane parallel to $x_1+x_2+x_3+x_4=0$ is a non-degenerate $3$-dimensional polyhedron.  What is the maximum number of faces of this polyhedron?", "url": "https://artofproblemsolving.com/community/c129h526567p2986245", "category": ""}

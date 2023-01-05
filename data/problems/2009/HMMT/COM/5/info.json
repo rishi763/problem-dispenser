@@ -1,0 +1,1 @@
+{"latex": "Let $s(n)$ denote the number of $1$'s in the binary representation of $n$. Compute\\\\\n\\[\n\\frac{1}{255}\\sum_{0\\leq n<16}2^n(-1)^{s(n)}.\n\\]", "url": "https://artofproblemsolving.com/community/c129h456721p2565495", "category": ""}

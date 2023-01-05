@@ -1,0 +1,1 @@
+{"latex": "Let $\\left\\{ a_n \\right\\}$ and $\\left\\{ b_n \\right\\}$ be sequences defined recursively by $a_0 =2$; $b_0 = 2$, and $a_{n+1} = a_n \\sqrt{1+a_n^2+b_n^2}-b_n$; $b_{n+1} = b_n\\sqrt{1+a_n^2+b_n^2} + a_n$.  Find the ternary (base 3) representation of $a_4$ and $b_4$.", "url": "https://artofproblemsolving.com/community/c129h520363p2930897", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "The function f is defined on the set $\\mathbb{Q}$ of all rational numbers and has values in $\\mathbb{Q}$.  It satisfies the conditions $f(1)=2$ and $f(xy)=f(x)f(y)-f(x+y)+1$ for all $x,y \\in \\mathbb{Q}$.  Determine f (with proof)", "url": "https://artofproblemsolving.com/community/c6h411713p2310353", "category": ""}

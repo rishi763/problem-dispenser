@@ -1,0 +1,1 @@
+{"answer": "997", "latex": "The function $f$ is defined on the set of integers and satisfies \\[ f(n)=\\begin{cases} n-3 & \\text{if } n\\ge 1000 \\\\ f(f(n+5)) & \\text{if } n<1000\\end{cases}  \\] Find $f(84)$.", "url": "https://artofproblemsolving.com/community/c4h66509p392618", "category": "A"}

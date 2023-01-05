@@ -1,0 +1,1 @@
+{"latex": "Let $a_0 < a_1 < a_2 \\ldots$ be an infinite sequence of positive integers. Prove that there exists a unique integer $n\\geq 1$ such that\\\\\n\\[a_n < \\frac{a_0+a_1+a_2+\\cdots+a_n}{n} \\leq a_{n+1}.\\]\\\\\n\\\\\n\\textit{Proposed by Gerhard W\u00f6ginger, Austria.}", "url": "https://artofproblemsolving.com/community/c6h596930p3542095", "category": "A"}

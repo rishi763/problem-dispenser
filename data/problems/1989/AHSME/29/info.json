@@ -1,0 +1,1 @@
+{"answer": "B", "latex": "Find $\\displaystyle \\sum_{k=0}^{49}(-1)^k\\binom{99}{2k}$, where $\\binom{n}{j}=\\frac{n!}{j!(n-j)!}$.\\\\\n\\\\\n$ \\textbf{(A)}\\ -2^{50} \\qquad\\textbf{(B)}\\ -2^{49} \\qquad\\textbf{(C)}\\ 0 \\qquad\\textbf{(D)}\\ 2^{49} \\qquad\\textbf{(E)}\\ 2^{50} $", "url": "https://artofproblemsolving.com/community/c5h455354p2559205", "category": "C"}

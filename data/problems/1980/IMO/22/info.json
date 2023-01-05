@@ -1,0 +1,1 @@
+{"latex": "Let $p$ be a prime number. Prove that there is no number divisible by $p$ in the $n-th$ row of Pascal's triangle if and only if $n$ can be represented in the form $n = p^sq - 1$, where $s$ and $q$ are integers with $s \\geq 0, 0 < q < p$.", "url": "https://artofproblemsolving.com/community/c6h5567p18083", "category": ""}

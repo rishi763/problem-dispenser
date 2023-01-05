@@ -1,0 +1,1 @@
+{"answer": "50", "latex": "Let $(a_n)_{n\\geq 1}$ be a sequence of positive integers such that $a_1 = 6$, $a_2 = 66$, and \n    \\[\n    a_n =a_{n-1} +12a_{n-2}\n    \\]\n    for all $n\\geq 3$. For how many integers $1\\leq n\\leq 100$ does the units digit of $a_n$ equal $6$?\n", "category": ""}

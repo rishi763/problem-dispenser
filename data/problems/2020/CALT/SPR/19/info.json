@@ -1,0 +1,1 @@
+{"answer": "27", "latex": "A function $f(x)$ is made such that the value of $f(x)$ is $x$ plus the number formed by reversing the digits of $x$. For example, $f(15)=15+51=66$ and $f(20) = 20 + 02 = 22$. Let\n    \\[ S = f(1)+f(2)+f(3) +\\cdots +f(98)+f(99).\\]\n    What is the sum of the digits of $S$?\n", "category": ""}

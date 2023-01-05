@@ -1,0 +1,1 @@
+{"latex": "Let $N=30^{2015}$.  Find the number of ordered 4-tuples of integers $(A,B,C,D)\\in\\{1,2,\\ldots,N\\}^4$ (not necessarily distinct) such that for every integer $n$, $An^3+Bn^2+2Cn+D$ is divisible by $N$.", "url": "https://artofproblemsolving.com/community/c129h1071078p4658529", "category": ""}

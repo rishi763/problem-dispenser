@@ -1,0 +1,1 @@
+{"latex": "$\\textbf{(Maximal Determinant)}$ In a $17 \\times 17$ matrix $M$, all entries are $\\pm 1$.\\\\\nThe maximum possible value of $\\left| \\det M \\right|$ is $N$. Estimate $N$.\\\\\n\\\\\nAn estimate of $E > 0$ earns $\\left\\lfloor 20\\min(N/E, E/N)^2 \\right\\rfloor$ points.", "url": "https://artofproblemsolving.com/community/c129h1359360p7444659", "category": ""}

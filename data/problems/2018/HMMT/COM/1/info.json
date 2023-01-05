@@ -1,0 +1,1 @@
+{"latex": "Consider a $2\\times 3$ grid where each entry is either $0$, $1$, or $2$. For how many such grids is the sum of the numbers in every row and in every column a multiple of $3$? One valid grid is shown below:\\\\\n$$\\begin{bmatrix} 1 & 2 & 0 \\\\ 2 & 1 & 0 \\end{bmatrix}$$", "url": "https://artofproblemsolving.com/community/c129h1590379p9854086", "category": ""}

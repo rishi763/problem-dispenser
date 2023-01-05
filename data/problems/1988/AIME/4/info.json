@@ -1,0 +1,1 @@
+{"answer": "020", "latex": "Suppose that $|x_i| < 1$ for $i = 1, 2, \\dots, n$.  Suppose further that\\\\\n\\[ |x_1| + |x_2| + \\dots + |x_n| = 19 + |x_1 + x_2 + \\dots + x_n|. \\]\\\\\nWhat is the smallest possible value of $n$?", "url": "https://artofproblemsolving.com/community/c4h79618p455772", "category": "A"}

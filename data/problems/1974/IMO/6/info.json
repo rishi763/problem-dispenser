@@ -1,0 +1,1 @@
+{"latex": "Let $P(x)$ be a polynomial with integer coefficients. We denote $\\deg(P)$ its degree which is $\\geq 1.$ Let $n(P)$ be the number of all the integers $k$ for which we have $(P(k))^{2}=1.$ Prove that $n(P)- \\deg(P) \\leq 2.$", "url": "https://artofproblemsolving.com/community/c6h58621p358045", "category": "G"}

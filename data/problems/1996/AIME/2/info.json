@@ -1,0 +1,1 @@
+{"answer": "340", "latex": "For each real number $x,$ let $\\lfloor x\\rfloor$ denote the greatest integer that does not exceed $x.$  For how many positive integers $n$ is it true that $n<1000$ and that $\\lfloor \\log_2 n\\rfloor$ is a positive even integer.", "url": "https://artofproblemsolving.com/community/c4h66810p394219", "category": "A"}

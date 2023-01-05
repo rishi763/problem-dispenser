@@ -1,0 +1,1 @@
+{"answer": "E", "latex": "Define $$P(x) =(x-1^2)(x-2^2)\\cdots(x-100^2).$$How many integers $n$ are there such that $P(n)\\leq 0$?\\\\\n\\\\\n$\\textbf{(A) } 4900 \\qquad \\textbf{(B) } 4950\\qquad \\textbf{(C) } 5000\\qquad \\textbf{(D) } 5050 \\qquad \\textbf{(E) } 5100$", "url": "https://artofproblemsolving.com/community/c5h1997755p13948754", "category": ""}

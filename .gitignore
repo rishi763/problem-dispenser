@@ -1,0 +1,9 @@
+*.txt
+*.pickle
+*.db
+__pycache__/
+latex/
+.env
+webscrape/data/
+.vscode
+nohup.out

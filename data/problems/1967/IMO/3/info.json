@@ -1,0 +1,1 @@
+{"latex": "Let $k,m,n$ be natural numbers such that $m+k+1$ is a prime greater than $n+1$. Let $c_s=s(s+1)$. Prove that\\\\\n\\\\\n\\[(c_{m+1}-c_k)(c_{m+2}-c_k)\\ldots(c_{m+n}-c_k)\\]\\\\\n\\\\\nis divisible by the product $c_1c_2\\ldots c_n$.", "url": "https://artofproblemsolving.com/community/c6h21117p137234", "category": ""}

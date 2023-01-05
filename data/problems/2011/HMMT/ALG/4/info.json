@@ -1,0 +1,1 @@
+{"latex": "For all real numbers $x$, let \\[ f(x) = \\frac{1}{\\sqrt[2011]{1-x^{2011}}}. \\] Evaluate $(f(f(\\ldots(f(2011))\\ldots)))^{2011}$, where $f$ is applied $2010$ times.", "url": "https://artofproblemsolving.com/community/c129h520355p2930886", "category": ""}

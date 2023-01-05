@@ -1,0 +1,1 @@
+{"latex": "If $f$ is a continuous real function such that $ f(x-1) + f(x+1) \\ge x + f(x) $ for all $x$, what is the minimum possible value of $ \\displaystyle\\int_{1}^{2005} f(x) \\, \\mathrm{d}x $?", "url": "https://artofproblemsolving.com/community/c129h531948p3039650", "category": ""}

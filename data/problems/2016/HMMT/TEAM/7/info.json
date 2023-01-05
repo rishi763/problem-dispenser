@@ -1,0 +1,1 @@
+{"latex": "Let $q(x) = q^1(x) = 2x^2 + 2x - 1$, and let $q^n(x) = q(q^{n-1}(x))$ for $n > 1$.\\\\\nHow many negative real roots does $q^{2016}(x)$ have?", "url": "https://artofproblemsolving.com/community/c129h1361533p7462731", "category": ""}

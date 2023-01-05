@@ -1,0 +1,1 @@
+{"latex": "For each positive integer $n$ and non-negative integer $k$, define $W(n,k)$ recursively by\\\\\n\\[\nW(n,k) = \n\\begin{cases}\n\tn^n & k = 0 \\\\\n\tW(W(n,k-1), k-1) & k > 0.\n\\end{cases}\n\\]Find the last three digits in the decimal representation of $W(555,2)$.", "url": "https://artofproblemsolving.com/community/c129h1359329p7444596", "category": ""}

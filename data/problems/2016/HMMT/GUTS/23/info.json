@@ -1,0 +1,1 @@
+{"latex": "Let $t = 2016$ and $p = \\ln 2$. Evaluate in closed form the sum\\\\\n\\[ \\sum_{k=1}^{\\infty} \n\\left(\n\t1-\\sum_{n=0}^{k-1}\\frac{e^{-t}t^{n}}{n!}\n\\right)\n\\left(1-p\\right)^{k-1}p. \\]", "url": "https://artofproblemsolving.com/community/c129h1359347p7444627", "category": ""}

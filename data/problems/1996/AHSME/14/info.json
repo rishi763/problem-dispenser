@@ -1,0 +1,1 @@
+{"answer": "C", "latex": "Let $E(n)$ denote the sum of the even digits of $n$. For example, $E(5681) = 6+8 = 14$. Find $E(1) + E(2) + E(3) + \\cdots + E(100)$.\\\\\n\\\\\n$\\text{(A)}\\ 200 \\qquad \\text{(B)}\\ 360 \\qquad \\text{(C)}\\ 400 \\qquad \\text{(D)}\\ 900 \\qquad \\text{(E)}\\ 2250$", "url": "https://artofproblemsolving.com/community/c4h63069p376675", "category": ""}

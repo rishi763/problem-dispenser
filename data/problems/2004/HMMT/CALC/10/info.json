@@ -1,0 +1,1 @@
+{"latex": "Let $P(x)=x^3-\\tfrac{3}{2}x^2+x+\\tfrac{1}{4}$. Let $P^{[1]}(x)=P(x)$, and for $n\\ge1$, let $P^{n+1}(x)=P^{[n]}(P(x))$. Evaluate: \\[ \\displaystyle\\int_{0}^{1} P^{[2004]} (x) \\ \\mathrm{d}x. \\]", "url": "https://artofproblemsolving.com/community/c129h448551p2524822", "category": ""}

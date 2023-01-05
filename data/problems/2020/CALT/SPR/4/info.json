@@ -1,0 +1,1 @@
+{"answer": "20", "latex": "For each positive integer $n$, let $f(n)$ equal the number of positive integer divisors of $n^n$, and let $g(n)$ equal the number of perfect squares less than $n$. Find \\[g(f(20))-f(g(20)).\\]\n", "category": ""}

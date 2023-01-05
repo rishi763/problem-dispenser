@@ -1,0 +1,1 @@
+{"answer": "C", "latex": "Let $f_n(x)=\\sin^n x + \\cos^n x$.  For how many $x$ in $[0,\\pi]$ is it true that\\\\\n\\[6f_4(x)-4f_6(x)=2f_2(x)?\\]\\\\\n$\\textbf{(A) }2\\qquad\\textbf{(B) }4\\qquad\\textbf{(C) }6\\qquad\\textbf{(D) }8\\qquad\\textbf{(E) }\\text{more than 8}$", "url": "https://artofproblemsolving.com/community/c4h528390p3005957", "category": ""}

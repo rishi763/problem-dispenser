@@ -1,0 +1,1 @@
+{"latex": "Let $ {\\mathbb Q}^ +$ be the set of positive rational numbers. Construct a function $ f : {\\mathbb Q}^ + \\rightarrow {\\mathbb Q}^ +$ such that\\\\\n\\[ f(xf(y)) = \\frac {f(x)}{y}\n\\]\\\\\nfor all $ x$, $ y$ in $ {\\mathbb Q}^ +$.", "url": "https://artofproblemsolving.com/community/c6h60742p366471", "category": "A"}

@@ -1,0 +1,1 @@
+{"latex": "Let $f(x)=1+\\dfrac{x}{2}+\\dfrac{x^2}{4}+\\dfrac{x^3}{8}+\\cdots,$ for $-1\\leq x \\leq 1$.  Find $\\sqrt{e^{\\int\\limits_0^1 f(x)dx}}$.", "url": "https://artofproblemsolving.com/community/c129h485105p2718168", "category": ""}

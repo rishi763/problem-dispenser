@@ -1,0 +1,1 @@
+{"answer": "70", "latex": "For each positive integer $n$, let $z_n$ be the unit digits of the sum of the first $n$ odd positive integers. Find the remainder when$$\\sum_{n=1}^{2020} z_n$$is divided by $100$.\n", "category": ""}

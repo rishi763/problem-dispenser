@@ -1,0 +1,1 @@
+{"answer": "012", "latex": "The solutions to the system of equations\\\\\n\\\\\n\\begin{eqnarray*} \\log_{225}{x}+\\log_{64}{y} &=& 4\\\\ \\log_x{225}-\\log_y{64} &=& 1 \\end{eqnarray*}\\\\\n\\\\\nare $(x_1,y_1)$ and $(x_2, y_2).$ Find $\\log_{30}{(x_1y_1x_2y_2)}.$", "url": "https://artofproblemsolving.com/community/c4h63393p378359", "category": "A"}

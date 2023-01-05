@@ -1,0 +1,1 @@
+{"answer": "A", "latex": "Let $f(x) = \\frac{x+1}{x-1}$. Then for $x^2 \\neq 1$, $f(-x)$ is\\\\\n\\\\\n$ \\textbf{(A)}\\ \\frac{1}{f(x)}\\qquad\\textbf{(B)}\\ -f(x)\\qquad\\textbf{(C)}\\ \\frac{1}{f(-x)}\\qquad\\textbf{(D)}\\ -f(-x)\\qquad\\textbf{(E)}\\ f(x) $", "url": "https://artofproblemsolving.com/community/c5h56691p349997", "category": ""}

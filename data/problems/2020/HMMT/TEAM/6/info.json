@@ -1,0 +1,1 @@
+{"latex": "Let $n > 1$ be a positive integer and $S$ be a collection of $\\frac{1}{2}\\binom{2n}{n}$ distinct $n$-element subsets of $\\{1, 2, \\dotsc, 2n\\}$. Show that there exists $A, B\\in S$ such that $|A\\cap B|\\leq 1$.\\\\\n\\\\\n\\textit{Proposed by Michael Ren.}", "url": "https://artofproblemsolving.com/community/c129h2008283p14065375", "category": ""}

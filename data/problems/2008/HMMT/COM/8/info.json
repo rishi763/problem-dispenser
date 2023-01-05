@@ -1,0 +1,1 @@
+{"latex": "Determine the number of ways to select a sequence of $ 8$ sets $ A_1,A_2,\\ldots,A_8$, such that each is a subset (possibly empty) of $ \\{1,2\\}$ and $ A_m$ contains $ A_n$ if $ m$ divides $ n$.", "url": "https://artofproblemsolving.com/community/c4h192191p1054771", "category": ""}

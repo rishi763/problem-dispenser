@@ -1,0 +1,1 @@
+{"latex": "Let $\\mathbb{N} = \\{1,2,3, \\ldots\\}$. Determine if there exists a strictly increasing function $f: \\mathbb{N} \\mapsto \\mathbb{N}$ with the following properties:\\\\\n\\\\\n(i) $f(1) = 2$;\\\\\n\\\\\n(ii) $f(f(n)) = f(n) + n, (n \\in \\mathbb{N})$.", "url": "https://artofproblemsolving.com/community/c6h62193p372306", "category": ""}

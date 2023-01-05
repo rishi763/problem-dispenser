@@ -1,0 +1,1 @@
+{"answer": "D", "latex": "Let $(a_n)_{n\\geq 1}$ be a sequence such that $a_1=1$ and $3a_{n+1}-3a_n=1$ for all $n\\geq 1$.  Find $a_{2002}$.\\\\\n\\\\\n$\\textbf{(A) }666\\qquad\\textbf{(B) }667\\qquad\\textbf{(C) }668\\qquad\\textbf{(D) }669\\qquad\\textbf{(E) }670$", "url": "https://artofproblemsolving.com/community/c4h527886p3000455", "category": ""}

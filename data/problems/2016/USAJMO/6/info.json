@@ -1,0 +1,1 @@
+{"latex": "Find all functions $f:\\mathbb{R}\\rightarrow \\mathbb{R}$ such that for all real numbers $x$ and $y$,\\\\\n$$(f(x)+xy)\\cdot f(x-3y)+(f(y)+xy)\\cdot f(3x-y)=(f(x+y))^2.$$", "url": "https://artofproblemsolving.com/community/c5h1231010p6220308", "category": ""}

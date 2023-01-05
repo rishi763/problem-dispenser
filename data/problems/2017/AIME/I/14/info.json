@@ -1,0 +1,1 @@
+{"answer": "896", "latex": "Let $a > 1$ and $x > 1$ satisfy $\\log_a(\\log_a(\\log_a 2) + \\log_a 24 - 128) = 128$ and $\\log_a(\\log_a x) = 256$. Find the remainder when $x$ is divided by $1000$.", "url": "https://artofproblemsolving.com/community/c5h1397903p7812869", "category": "A"}

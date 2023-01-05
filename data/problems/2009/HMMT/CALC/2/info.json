@@ -1,0 +1,1 @@
+{"latex": "The differentiable function $F:\\mathbb{R}\\to\\mathbb{R}$ satisfies $F(0)=-1$ and \\[\\dfrac{d}{dx}F(x)=\\sin (\\sin (\\sin (\\sin(x))))\\cdot \\cos( \\sin (\\sin (x))) \\cdot \\cos (\\sin(x))\\cdot\\cos(x).\\] Find $F(x)$ as a function of $x$.", "url": "https://artofproblemsolving.com/community/c129h485444p2719711", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "A plane curve is parameterized by $x(t)=\\displaystyle\\int_{t}^{\\infty} \\dfrac {\\cos u}{u} \\, \\mathrm{d}u $ and $ y(t) = \\displaystyle\\int_{t}^{\\infty} \\dfrac {\\sin u}{u} \\, \\mathrm{d}u $ for $ 1 \\le t \\le 2 $. What is the length of the curve?", "url": "https://artofproblemsolving.com/community/c129h531941p3039639", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "$f$ and $g$ are real-valued functions defined on the real line. For all $x$ and $y, f(x+y)+f(x-y)=2f(x)g(y)$. $f$ is not identically zero and $|f(x)|\\le1$ for all $x$. Prove that $|g(x)|\\le1$ for all $x$.", "url": "https://artofproblemsolving.com/community/c6h60824p366665", "category": "A"}

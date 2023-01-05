@@ -1,0 +1,1 @@
+{"latex": "The Fibonacci sequence is defined as follows: $F_0=0$, $F_1=1$, and $F_n=F_{n-1}+F_{n-2}$ for all integers $n\\ge 2$. Find the smallest positive integer $m$ such that $F_m\\equiv 0 \\pmod {127}$ and $F_{m+1}\\equiv 1\\pmod {127}$.", "url": "https://artofproblemsolving.com/community/c129h1386266p7710469", "category": ""}

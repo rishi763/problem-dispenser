@@ -1,0 +1,1 @@
+{"latex": "For positive integers $a$ and $N$, let $r(a, N) \\in \\{0, 1, \\dots, N - 1\\}$ denote the remainder of $a$ when divided by $N$. Determine the number of positive integers $n \\le 1000000$ for which\\\\\n\\[r(n, 1000) > r(n, 1001).\\]", "url": "https://artofproblemsolving.com/community/c129h1387214p7718361", "category": ""}

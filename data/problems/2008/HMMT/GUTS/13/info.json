@@ -1,0 +1,1 @@
+{"latex": "Let $ P(x)$ be a polynomial with degree 2008 and leading coefficient 1 such that\\\\\n\\[ P(0) = 2007, P(1) = 2006, P(2) = 2005, \\dots, P(2007) = 0.\n\\]Determine the value of $ P(2008)$.  You may use factorials in your answer.", "url": "https://artofproblemsolving.com/community/c4h198490p1091372", "category": ""}

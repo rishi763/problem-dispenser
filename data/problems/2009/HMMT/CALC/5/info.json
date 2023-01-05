@@ -1,0 +1,1 @@
+{"latex": "Compute \\[\\lim_{h\\to 0}\\dfrac{\\sin(\\frac{\\pi}{3}+4h)-4\\sin(\\frac{\\pi}{3}+3h)+6\\sin(\\frac{\\pi}{3}+2h)-4\\sin(\\frac{\\pi}{3}+h)+\\sin(\\frac{\\pi}{3})}{h^4}.\\]", "url": "https://artofproblemsolving.com/community/c129h485447p2719720", "category": ""}

@@ -1,0 +1,1 @@
+{"latex": "A nonempty set $S$ is called $\\emph{well-filled}$ if for every $m \\in S$, there are fewer than $\\frac 12 m$ elements of $S$ which are less than $m$.\\\\\nDetermine the number of well-filled subsets of $\\left\\{ 1,2,\\dots,42 \\right\\}$.", "url": "https://artofproblemsolving.com/community/c129h1361532p7462727", "category": ""}

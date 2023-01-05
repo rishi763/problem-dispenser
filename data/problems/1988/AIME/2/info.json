@@ -1,0 +1,1 @@
+{"answer": "169", "latex": "For any positive integer $k$, let $f_1(k)$ denote the square of the sum of the digits of $k$.  For $n \\ge 2$, let $f_n(k) = f_1(f_{n - 1}(k))$.  Find $f_{1988}(11)$.", "url": "https://artofproblemsolving.com/community/c4h79616p455767", "category": ""}

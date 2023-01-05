@@ -1,0 +1,2 @@
+def ad(args, author):
+    return [{"text":"It is that time of the year again, Board Elections in Math Club!!! To participate join Math Club ( https://discord.gg/QMKh67c ) and register using `?register` by June 12th, 2021 and be sure to vote for <@!513126047978356736>! Have a nice day!"}]

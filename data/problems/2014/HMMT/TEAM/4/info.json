@@ -1,0 +1,1 @@
+{"latex": "Compute \\[\\sum_{k=0}^{100}\\left\\lfloor\\dfrac{2^{100}}{2^{50}+2^k}\\right\\rfloor.\\] (Here, if $x$ is a real number, then $\\lfloor x\\rfloor$ denotes the largest integer less than or equal to $x$.)", "url": "https://artofproblemsolving.com/community/c129h578708p3414333", "category": ""}

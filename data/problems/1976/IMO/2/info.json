@@ -1,0 +1,1 @@
+{"latex": "Let $P_{1}(x)=x^{2}-2$ and $P_{j}(x)=P_{1}(P_{j-1}(x))$ for j$=2,\\ldots$ Prove that for any positive integer n the roots of the equation $P_{n}(x)=x$ are all real and distinct.", "url": "https://artofproblemsolving.com/community/c6h61035p367419", "category": ""}

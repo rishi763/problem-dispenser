@@ -1,0 +1,1 @@
+{"latex": "Find, as a function of $\\, n, \\,$ the sum of the digits of\\\\\n\\[ 9 \\times 99 \\times 9999 \\times \\cdots \\times \\left( 10^{2^n} - 1 \\right),  \\]\\\\\nwhere each factor has twice as many digits as the previous one.", "url": "https://artofproblemsolving.com/community/c6h58209p356412", "category": "A"}

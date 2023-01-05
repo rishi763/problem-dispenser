@@ -1,0 +1,1 @@
+{"answer": "189", "latex": "For each ordered pair of real numbers $(x,y)$ satisfying\\\\\n\\[ \\log_2(2x+y) = \\log_4(x^2+xy+7y^2) \\]there is a real number $K$ such that\\\\\n\\[ \\log_3(3x+y) = \\log_9(3x^2+4xy+Ky^2). \\]Find the product of all possible values of $K$.", "url": "https://artofproblemsolving.com/community/c5h1604185p9995689", "category": ""}

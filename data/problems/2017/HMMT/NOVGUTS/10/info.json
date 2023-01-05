@@ -1,0 +1,1 @@
+{"latex": "Let $ABC$ be a triangle in the plane with $AB = 13$, $BC = 14$, $AC = 15$. Let $M_n$ denote the smallest possible value of $(AP^n + BP^n + CP^n)^{\\frac{1}{n}}$ over all points $P$ in the plane. Find $\\lim_{n \\to \\infty} M_n$.", "url": "https://artofproblemsolving.com/community/c129h1387203p7718329", "category": ""}

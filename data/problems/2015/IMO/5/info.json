@@ -1,0 +1,1 @@
+{"latex": "Let $\\mathbb R$ be the set of real numbers. Determine all functions $f:\\mathbb R\\to\\mathbb R$ that satisfy the equation\\[f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)\\]for all real numbers $x$ and $y$.\\\\\n\\\\\n\\textit{Proposed by Dorlir Ahmeti, Albania}", "url": "https://artofproblemsolving.com/community/c6h1113162p5083463", "category": "A"}

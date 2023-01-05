@@ -1,0 +1,1 @@
+{"latex": "Let $ f(n)$ be the number of times you have to hit the $ \\sqrt {\\ }$ key on a calculator to get a number less than $ 2$ starting from $ n$. For instance, $ f(2) = 1$, $ f(5) = 2$. For how many $ 1 < m < 2008$ is $ f(m)$ odd?", "url": "https://artofproblemsolving.com/community/c4h191783p1053163", "category": ""}

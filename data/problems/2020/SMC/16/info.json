@@ -1,0 +1,1 @@
+{"answer": "10", "latex": "Suppose we have a cube with side length $n.$ Stacked on top of it is a cube with side length $n-1.$ Stacked on top of that cube is a cube with side length $n-2.$ This continues, and at the very top is a cube with side length 1. The volume of the entire figure is 3025. Compute the value of $n.$\n\n\n", "category": ""}
