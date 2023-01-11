@@ -6,7 +6,7 @@ connection=None
 def main():
     global cursor
     global connection
-    connection=sqlite3.connect('website/data/discord_login.db', check_same_thread=False)
+    connection=sqlite3.connect('data/discord_login.db', check_same_thread=False)
     connection.execute(
     '''CREATE TABLE IF NOT EXISTS USERS
     (HASHED_ID      CHAR(60)    PRIMARY KEY     NOT NULL,

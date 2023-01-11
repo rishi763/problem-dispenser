@@ -3,7 +3,6 @@ import os
 import dotenv
 from utils.discord_utils import *
 from utils.discord_db import *
-from
 
 app=flask.Flask(__name__)
 

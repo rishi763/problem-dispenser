@@ -1,23 +1,25 @@
-body{
-    margin:0;
+body {
+    margin: 0;
 }
 
 @font-face {
     font-family: font;
     src: url(Heebo-VariableFont_wght.ttf);
-  }
+}
 
-a:hover{
+a:hover {
     background-color: #3d5a6c;
 }
-div.dropdown:hover{
+
+div.dropdown:hover {
     background-color: #3d5a6c;
 }
+
 div.dropdown:hover .dropdown-content {
     display: block;
-  }
+}
 
-ul.navbar{
+ul.navbar {
     list-style-type: none;
     margin: 0;
     padding: 10px 10px 10px 10px;
@@ -26,16 +28,17 @@ ul.navbar{
 }
 
 li.navbar-item {
-    float:left;
+    float: left;
     list-style-type: none;
     margin: 0px 5px 0px 5px;
     padding: 0;
     overflow: hidden;
-    background-color: #292F36;;
+    background-color: #292F36;
+    ;
     border-radius: 5px;
 }
 
-img.logo{
+img.logo {
     height: 51.5px;
     vertical-align: middle
 }
@@ -48,28 +51,33 @@ li.navbar-item a {
     padding: 14px 16px;
     text-decoration: none;
 }
-img.discord-avatar{
-    float:left;
-    height: 25px;
-    padding: 13px 5px 13px 16px;
-    border-radius:50%;
+
+img.discord-avatar {
+    float: left;
+    height: 30px;
+    padding: 10px;
+    border-radius: 50%;
     vertical-align: middle;
 }
-div.dropdown{
+
+div.dropdown {
     overflow: hidden;
 }
+
 .dropdown-content {
     display: none;
     position: absolute;
     min-width: 160px;
-    border-radius:5px;
+    border-radius: 5px;
     background-color: #1a1b25;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
-.dropdown-content a{
-    border-radius:5px;
+
+.dropdown-content a {
+    border-radius: 5px;
 }
-div.dropdown-content a:hover{
+
+div.dropdown-content a:hover {
     background-color: #6d9dc5;
 }
