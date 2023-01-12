@@ -28,12 +28,8 @@ def predict(problem):
     return number_category_map.get(category_number)
 
 
-#print(predict("Let $\\mathbb{Z}$ be the set of integers. Determine all functions $f: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a)+2f(b)=f(f(a+b)).$$\\textit{Proposed by Liam Baker, South Africa}"))
+print(predict("Let $\\mathbb{Z}$ be the set of integers. Determine all functions $f: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a)+2f(b)=f(f(a+b)).$$\\textit{Proposed by Liam Baker, South Africa}"))
 vec = CountVectorizer()
 
-def tokenize(text):
-    detex_text=""
-    for i in range(len(text)):
-        
 
-tokenize("Let $\\mathbb{Z}$ be the set of integers. Determine all functions $f: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a)+2f(b)=f(f(a+b)).$$\\textit{Proposed by Liam Baker, South Africa}")
+#tokenize("Let $\\mathbb{Z}$ be the set of integers. Determine all functions $f: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a)+2f(b)=f(f(a+b)).$$\\textit{Proposed by Liam Baker, South Africa}")

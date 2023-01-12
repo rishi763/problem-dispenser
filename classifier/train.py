@@ -42,7 +42,7 @@ def gather_data():
 
 def tokenize(text):
     detex_text=""
-    for character in     text:
+    for character in text:
 
 
 
